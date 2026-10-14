@@ -13,7 +13,7 @@
 
 ## Video Walkthrough Placeholder
 
-- **Video Walkthrough Link**: `https://youtu.be/placeholder-vikmo-dealerdesk-walkthrough` *(5-minute technical code walkthrough of assistant tool loop and forecast pipeline)*
+- **Video Walkthrough Link**: `https://drive.google.com/file/d/1TIcfSQzjxzXXGpi0AH40cwEDTCEUXRb4/view?usp=sharing` *(5-minute technical code walkthrough of assistant tool loop and forecast pipeline)*
 
 ---
 
